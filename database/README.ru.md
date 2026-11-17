@@ -1,11 +1,13 @@
-# Path of Exile 2 — база знаний в Markdown
+# Path of Exile 2 — Codex
 
-База знаний сообщества по **Path of Exile 2**.
+**PoE2 Codex** — двуязычная (английская/русская) база знаний сообщества по **Path of Exile 2** в структурированном Markdown: страницы классов, полные списки узлов восхождений, математика боя и крафта со источниками, каталоги предметов и валюты, практические гайды и отдельная ветка релиза 1.0 (подтверждённые факты vs слухи). Доступна на GitHub Pages: [juxhit.github.io/poe2-codex](https://juxhit.github.io/poe2-codex) — переключение языка в шапке страницы.
+
+**Как пользоваться:** начните с [game.md](game.md) и [классов](classes/); механики — в [mechanics/](mechanics/); таблицы на один экран — в [cheatsheets/](cheatsheets/). У каждого утверждения указан источник; непроверённые данные помечены.
 
 - **Снимок данных:** 2026-11-17 (эпоха патча 0.5.x "Return of the Ancients")
-- **Полный релиз 1.0:** December 11, 2026 — подробности в [1.0/confirmed.md](1.0/confirmed.md), слухи в [1.0/rumors.md](1.0/rumors.md)
+- **Полный релиз 1.0:** 11 декабря 2026 — подробности в [1.0/confirmed.md](1.0/confirmed.md), слухи в [1.0/rumors.md](1.0/rumors.md)
 - **Источники:** [poe2db.tw](https://poe2db.tw/us/), [Maxroll PoE2](https://maxroll.gg/poe2), [Fextralife wiki](https://pathofexile2.wiki.fextralife.com/), [Mobalytics](https://mobalytics.gg/poe-2/guides), официальные [форумы pathofexile.com](https://www.pathofexile.com/forum/view-forum/2212)
-- Весь контент на английском. Непроверённая или спорная информация помечена `(не подтверждено)`; отсутствующие данные — `(нет данных)`.
+- Непроверённая или спорная информация помечена `(не подтверждено)`; отсутствующие данные — `(нет данных)`.
 
 ## Оглавление
 

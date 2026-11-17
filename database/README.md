@@ -1,6 +1,8 @@
-# Path of Exile 2 — Markdown Database
+# Path of Exile 2 — Codex
 
-Community knowledge base for **Path of Exile 2**.
+**PoE2 Codex** — a bilingual (English/Russian) community knowledge base for **Path of Exile 2**, built as structured Markdown: per-class pages, full ascendancy node lists, combat/craft math with sources, item and currency catalogs, practical guides, and a dedicated 1.0 release tracker (confirmed facts vs rumors). Available on GitHub Pages at [juxhit.github.io/poe2-codex](https://juxhit.github.io/poe2-codex) — switch the language in the page header.
+
+**How to use:** start with [game.md](game.md) and [classes/](classes/); deep-dive mechanics in [mechanics/](mechanics/); one-screen tables in [cheatsheets/](cheatsheets/). Every claim carries its source; unverified data is marked.
 
 - **Data snapshot:** 2026-11-17 (patch 0.5.x "Return of the Ancients" era)
 - **Full release 1.0:** December 11, 2026 — details in [1.0/confirmed.md](1.0/confirmed.md), rumors in [1.0/rumors.md](1.0/rumors.md)
