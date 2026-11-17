@@ -36,6 +36,20 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.inlinehilite
 
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      default_language: en
+      languages:
+        - locale: en
+          name: English
+          build: true
+          default: true
+        - locale: ru
+          name: Русский
+          build: true
+
 nav:
   - Home: README.md
   - Game overview: game.md

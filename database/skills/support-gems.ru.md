@@ -1,0 +1,46 @@
+# Камни поддержки (Support Gems) (0.5.x)
+
+> Источник: [poe2db — Support Gems](https://poe2db.tw/us Support_Gems) (558 строк; ~530 различных после дедупликации; число в скобках = **ступень 1–5**). Правила: [mechanics/index.md](../mechanics/index.md) · Число слотов через Jeweller's Orbs: [uncut-tiers.md](uncut-tiers.md)
+
+## Правила системы
+
+- Камни поддержки вставляются **прямо в камни умений** (и в мета-камни, где отмечено); каждый камень поддержки указывает допустимые теги и требования поддержки (+5 Силы/Ловкости/Интеллекта за слот).
+- **Правило отсутствия дубликатов:** на запуске раннего доступа каждый камень поддержки мог быть вставлен только в **одно умение на персонажа**; это ограничение впоследствии сняли (Fextralife — теперь камни поддержки могут вставляться в несколько умений) `(не подтверждено — точный патч)`.
+- **Печати стандартизированы (0.5.0):** Unleash, Expand, Salvo, Freezing Salvo используют одни и те же правила печатей; Salvo = 1 печать/с, максимум 6, 1 снаряд за печать.
+- **Удаления 0.5.0 (более недоступны):** Infernal Legion III, Shock Conduction II, Overextend.
+- **Добавления 0.5.0:** Minion Splash I & II (удары, создающие приспешников, получают Melee Splash), 23 новых Lineage supports, 7 Kalguuran-камней (Concussive Runes, Fist of Kalguur, Healing Runes, Runeforged Blades, Runic Extraction, Runic Infusion, Scouring Flame — эффекты `(не подтверждено)`), Rage I–III поддерживают умения приспешников.
+
+## Общий урон / стоимость / утилити
+
+Efficiency I/II (−30/−40% стоимости) · Lifetap (мана→жизнь) · Atalui's Bloodletting [Lineage] (мана→жизнь + физ. урон за стоимость жизни) · Extraction (10% жизни → +35% доп. урона хаосом) · Derange (стоимость ЭЩ = Интеллект, больше урона) · Ambrosia I/II (заряды флакона маны → доп. молния) · Concoct I/II (заряды флакона жизни → эффекты недугов) · Deliberation (+20% урона, медленнее движетесь) · Mobility · Momentum · Cadence (нарастающая скорость, затем блокировка) · Dauntless (нужно стоять на месте 1.5 с для использования) · Hit and Run (сначала нужно двигаться) · Delayed Gratification · Controlled Destruction (+25% урона чарами, без критов) · Considered Casting (+35% урона чарами, −15% скорости сотворения) · Heft (+30% макс. физ.) · Brutality I/II/III (+физ., никаких других типов) · Heavy Swing · Elemental Armament I/II/III · Fire/Cold/Lightning/Chaos Attunement (25% урона в виде стихии, −50% остальным) · Rising Tempest (+12% стихийного урона за каждую другую недавнюю стихию) · Embitter · Zenith I/II (урон выше 90% маны) · Execute I/II/III (против низкого здоровья) · Exploit Weakness (против полностью сломанной брони) · Close Combat I/II · Longshot I/II · Overreach (большой АоЕ, неточный вблизи) · Gambleshot (случайное Разветвление/Цепь/Прокол) · Volatility (криты дают Volatility) · Catharsis (детонирует Volatility) · Syzygy (Сокрушения = Crushing Blows по Подожжённым со сломанной бронёй)
+
+## Снаряды и эффекты
+
+Multishot I/II · Chain I/II/III · Fork · Pierce I/II/III · Ricochet I/II/III · Nova Projectiles I/II · Projectile Acceleration I/II/III · Projectile Deceleration I/II · Murderous Intent (усиленная атака = добивание) · Life/Soul Drain (восстановление при добивании) · Life/Mana Bounty, Bounty I/II (заряды за убийство) · Gorge · Lockdown · Rusted Spikes (Прикалывания Обостряют Кровотечение) · Malady (меняет шансы Кровотечения/Отравления) · Admixture · Corrosion (Отравление ломает броню) · Escalating Poison · Bursting Plague · Commiserate · Slow Potency · Maim · Overabundance I/II (+Лимит)
+
+## Молния / крит / скорость (пул Ловкости)
+
+Shock (+100% шанс) · Lasting Shock · Overcharge · Lightning Exposure · Lightning Penetration · Electrocute · Neural Overload · Stormchain · Shock Siphon · Crackling Barrier · Living Lightning I/II · Static Shocks · Electromagnetism · Coursing Current · Empowered Sparks I/II · Innervate · Heightened Accuracy I/II · Rapid Attacks I/II/III · Precision I/II · Ambush · Inexorable Critical I/II · Volt · Pursuit I/II/III · Retreat I/II/III · Combo Finisher I/II/III · Culmination I/II · Practiced Combo · Crescendo I/II/III · Rending Apex · Punch Through · Impale · Incision · Rip · Tear · Haemocrystals · Deep Cuts I/II · Bleed I–IV · Rupture · Deadly Poison I/II · Poison I/II/III · Swift Affliction I/II/III · Deadly Herald · Window of Opportunity I/II · Perfection · Perfected Endurance · Second Wind I/II/III · Cooldown Recovery I/II · Charge Profusion I/II · Perpetual Charge · Heightened Charges · Inhibitor · Frenzied Riposte · Thrill of the Kill I/II · Blazing Critical · Concussive Spells · Mark for Death I/II · Mark of Siphoning I/II · Eternal Mark · Charged Mark · Warm/Cool/Strong Hearted (сокращают эффекты на вас) · Rearm I/II · Controlled Hazard · Delayed Reaction · Accelerated Growth I/II · Poison Spores · Brambleslam · Brittle Armour · Verglas
+
+## Сила / ближний бой / огонь / приспешники / проклятия
+
+Armour Break I/II/III · Armour Demolisher I/II · Uruk's Smelting [Lineage] · Fist of War I/II/III · Ancestral Call I/II · Aftershock I/II · Tectonic Slams · Upheaval I/II · Kaom's Madness [Lineage] · Branching Fissures I/II · Jagged Ground I/II · Stun I/II/III · Brink I/II · Spar · Retaliate I/II · Steadfast I/II · Vanguard I/II · Crater · Shocking Leap · Holy Descent · Volcanic Eruption · Armour Explosion · Battershout · Quill Burst · Barbs I/II/III · Thornskin I/II · Knockback · Opening Move · Clash · Stoicism I/II · Rage I/II/III · Raging Cry · Enraged Warcry I/II · Echoing Cry · Exposing Cry · Tireless
+Огонь: Fire Attunement · Ignite I/II/III · Eternal Flame I/II/III · Immolate · Wildfire · Searing Flame I/II · Fiery Death · Fire Exposure · Fire Penetration I/II · Flamepierce · Fan The Flames I/II · Mana Flare
+Приспешники: Meat Shield I/II · Elemental Army · Feeding Frenzy I/II · Muster · Crazed Minions · Hulking Minions · Essence Harvest · Last Gasp · Deathmarch · Loyalty · Minion Pact I/II · Infernal Legion I/II · Sacrificial Lamb I/II · Commandment · Bidding I/II/III
+Проклятия: Heightened Curse · Abiding Hex · Focused Curse · Ritualistic Curse · Cursed Ground · Hex Bloom · Impending Doom · Decaying Hex · Profanity I/II
+Чары: Arcane Surge · Spell Echo · Spell Cascade · Magnified Area I/II · Concentrated Area · Astral Projection · Rapid Casting I/II/III · Elemental Focus · Drain Ailments · Elemental Discharge · Potent Exposure · Frostfire · Biting Frost I/II · Chaotic Freeze · Deep Freeze · Freeze · Frost Nexus · Cold Penetration · Cold Exposure · Crystalline Shards · Glacier · Icicle · Creeping Chill · Frozen Spite · Bone Shrapnel · Corpse Conservation
+Тотемы: Urgent I/II/III · Hardy I/II · Reinforced I/II · Splinter I/II · Font of Blood · Font of Mana
+Арбалет: Auto Reload · Double Barrel I/II/III · Fresh Clip I/II · Ammo Conservation I/II/III · Nimble Reload · Streamlined Rounds · Adhesive Grenades I/II · Payload · Short Fuse I/II · Long Fuse I/II · Persistent Ground I/II/III
+Постоянные усиления: Clarity I/II · Vitality I/II · Mysticism I/II · Upwelling I/II · Herbalism I/II · Cannibalism I/II · Direstrike I/II · Refraction I/II/III · Harmonic Remnants I/II · Remnant Potency I/II/III · Durability
+Печати/эхо: Unleash · Expand · Zarokh's Revolt · Zarokh's Refrain [Lineage] · Sione's Temper [Lineage] · Wildshards I/II
+Только для мета-камней: **Energy Retention** (возвращает 35%, половину стоимости Энергии) · **Boundless Energy I/II** (+35/+45% генерации Энергии) · **Energy Capacitor** (+80% макс. Энергии) · Ixchel's Torment [Lineage] · Fluke
+
+## Masteries (все 5-й ступени, +1 уровень камня подходящим умениям)
+
+Fire Mastery · Cold Mastery · Lightning Mastery · Chaos Mastery · Physical Mastery · Minion Mastery
+
+## Lineage supports (~70; 23 добавлено в 0.5.0)
+
+Именные примеры: Ahn's Citadel · Ailith's Chimes (Комбо → Заряды энергии) · Arjun's Medal (убийство заряжает весь боеприпас) · Arakaali's Lust (урон за каждое Отравление) · Atalui's Bloodletting · Atziri's Allure · Atziri's Impatience (100% восстановления откатов, стоит 25% жизни/маны/ЭЩ) · Brutus' Brain · Cirel's Cultivation · Ratha's Assault (кувырок заряжает 4 болта) · Daresso's Passion (−50% стоимости Славы) · Doedre's Undoing · Esh's Radiance · Tul's Stillness · Xoph's Pyre · Uul-Netol's Embrace · Hayoxi's Fulmination · Kalisa's Crescendo · Khatal's Rejuvenation · Kulemak's Dominion · Morgana's Tempest · Oisín's Oath · Rakiata's Flow (инвертирует сопротивления врага) · Rigwald's Ferocity · Romira's Requital · Tacati's Ire · Tasalio's Rhythm · Tecrod's Revenge · Uhtred's Augury/Exodus/Omen/Constellation/Rite · Vilenta's Propulsion · Xibaqua's Rending · Zerphi's Infamy · Dominus' Grasp (+100% цепей) · Guatelitzi's Ablation · Tawhoa's Tending · Vorana's Siege · Vruun's Inevitability/Aftermath · пополнение 0.5.0: Arbiter's Reach, Breachlord's Amalgam, Catha's Brilliance, Esh's Prowess, Helbrym's Hide, Her Declaration, Olroth's Conviction/Hubris, Medved's Felling, Mórrigan's Insight, Prototype Seventeen, Seraph's Heart, Styrn's Ferocity/Mountain, Tangmazu's Thurible, Trickster's Shard, Tul's Avalanche, Uhtred's Constellation, Uhtred's Rite, Vruun's Inevitability.
+
+Несколько подсказок Lineage на poe2db — заглушки `(нет данных)` — полный список: [poe2db Support_Gems](https://poe2db.tw/us/Support_Gems).
