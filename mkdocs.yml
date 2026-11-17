@@ -1,5 +1,8 @@
 site_name: "Path of Exile 2 — Codex"
 site_description: "Path of Exile 2 — Codex: bilingual (EN/RU) knowledge database — classes, ascendancies, mechanics, crafting, items, guides. Snapshot 0.5.x, updated for 1.0."
+repo_url: https://github.com/juxhit/poe2-codex
+repo_name: juxhit/poe2-codex
+docs_dir: database
 exclude_docs: |
   meta/templates/*
 
