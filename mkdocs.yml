@@ -2,9 +2,6 @@ site_name: Path of Exile 2 — Codex
 site_description: Path of Exile 2 — Codex: bilingual (EN/RU) knowledge database — classes, ascendancies, mechanics, crafting, items, guides. Snapshot 0.5.x, updated for 1.0.
 exclude_docs: |
   meta/templates/*
-repo_url: https://github.com/juxhit/poe2-codex
-repo_name: juxhit/poe2-codex
-docs_dir: database
 
 theme:
   name: material
@@ -55,18 +52,138 @@ plugins:
 nav:
   - Home: README.md
   - Game overview: game.md
-  - Classes: classes/
-  - Ascendancies: ascendancies/
-  - Mechanics: mechanics/
-  - Crafting: crafting/
-  - Items: items/
-  - Skills: skills/
-  - Guides: guides/
-  - Bosses: bosses/
-  - Passive tree: passive-tree/
-  - Cheatsheets: cheatsheets/
-  - 1.0 release: 1.0/
+  - Classes:
+      - classes/index.md
+      - classes/warrior.md
+      - classes/monk.md
+      - classes/sorceress.md
+      - classes/mercenary.md
+      - classes/ranger.md
+      - classes/witch.md
+      - classes/huntress.md
+      - classes/druid.md
+      - classes/future-classes.md
+  - Ascendancies:
+      - ascendancies/index.md
+      - ascendancies/titan.md
+      - ascendancies/warbringer.md
+      - ascendancies/smith-of-kitava.md
+      - ascendancies/invoker.md
+      - ascendancies/acolyte-of-chayula.md
+      - ascendancies/martial-artist.md
+      - ascendancies/stormweaver.md
+      - ascendancies/chronomancer.md
+      - ascendancies/disciple-of-varashta.md
+      - ascendancies/witchhunter.md
+      - ascendancies/gemling-legionnaire.md
+      - ascendancies/tactician.md
+      - ascendancies/deadeye.md
+      - ascendancies/pathfinder.md
+      - ascendancies/infernalist.md
+      - ascendancies/blood-mage.md
+      - ascendancies/lich.md
+      - ascendancies/amazon.md
+      - ascendancies/ritualist.md
+      - ascendancies/spirit-walker.md
+      - ascendancies/shaman.md
+      - ascendancies/oracle.md
+  - Mechanics:
+      - mechanics/index.md
+      - mechanics/life-mana-es.md
+      - mechanics/spirit.md
+      - mechanics/defences.md
+      - mechanics/ailments.md
+      - mechanics/stun-and-control.md
+      - mechanics/damage-types.md
+      - mechanics/damage-calculation.md
+      - mechanics/leech.md
+      - mechanics/flasks-charms.md
+      - mechanics/charges-resources.md
+      - mechanics/minions-companions.md
+      - mechanics/movement-controls.md
+      - mechanics/augments-sockets.md
+      - mechanics/idols-jewels-charms-slots.md
+      - mechanics/buffs-curses-marks.md
+      - mechanics/trials.md
+      - mechanics/atlas-waystones.md
+      - mechanics/pinnacle-bosses.md
+      - mechanics/league-mechanics.md
+      - mechanics/death-trade-party.md
+  - Crafting:
+      - crafting/index.md
+      - crafting/currency-crafting.md
+      - crafting/essences.md
+      - crafting/omens.md
+      - crafting/corruption.md
+      - crafting/augments.md
+      - crafting/runeforging.md
+      - crafting/idols.md
+      - crafting/jewels.md
+      - crafting/quality-sockets.md
+      - crafting/fractured-desecration.md
+      - crafting/modifiers-tiers.md
+      - crafting/benches-trade.md
+      - crafting/1-0-crafting.md
+  - Items:
+      - items/index.md
+      - items/rarity.md
+      - items/currency.md
+      - items/weapons.md
+      - items/armour.md
+      - items/jewelry.md
+      - items/flasks-charms.md
+      - items/runes-soulcores.md
+      - items/idols.md
+      - items/jewels.md
+      - items/gems.md
+      - items/uniques.md
+      - items/waystones.md
+      - items/misc.md
+  - Skills:
+      - skills/index.md
+      - skills/skill-gems.md
+      - skills/support-gems.md
+      - skills/meta-gems.md
+      - skills/uncut-tiers.md
+  - Guides:
+      - guides/index.md
+      - guides/beginner-guide.md
+      - guides/class-selection.md
+      - guides/leveling.md
+      - guides/campaign-route.md
+      - guides/campaign-quests.md
+      - guides/ascendancy-unlock.md
+      - guides/endgame-progression.md
+      - guides/builds.md
+      - guides/loot-filters.md
+      - guides/tools.md
+      - guides/trade-guide.md
+      - guides/vendors-hideout.md
+      - guides/settings-hotkeys.md
+      - guides/game-modes.md
+      - guides/stash-tabs.md
+      - guides/farming-strategies.md
+      - guides/cosmetics-crossplay.md
+      - guides/league-start-checklist.md
+      - guides/build-guide-template.md
+  - Bosses:
+      - bosses/index.md
+      - bosses/act-bosses.md
+      - bosses/pinnacle-bosses.md
+  - Passive tree:
+      - passive-tree/index.md
+      - passive-tree/keystones.md
+  - Cheatsheets:
+      - cheatsheets/index.md
+      - cheatsheets/caps-and-breakpoints.md
+      - cheatsheets/regex.md
+  - 1.0 release:
+      - 1.0/index.md
+      - 1.0/confirmed.md
+      - 1.0/rumors.md
   - Glossary: glossary.md
   - Lore: lore.md
-  - Leagues & patches: leagues/
-  - Meta: meta/
+  - Leagues & patches: leagues/index.md
+  - Meta:
+      - meta/index.md
+      - meta/changelog.md
