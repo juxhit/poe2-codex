@@ -1,0 +1,56 @@
+site_name: PoE2 Codex
+site_description: Path of Exile 2 knowledge database
+repo_url: https://github.com/juxhit/poe2-codex
+repo_name: juxhit/poe2-codex
+docs_dir: database
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Light
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Dark
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+
+nav:
+  - Home: README.md
+  - Game overview: game.md
+  - Classes: classes/
+  - Ascendancies: ascendancies/
+  - Mechanics: mechanics/
+  - Crafting: crafting/
+  - Items: items/
+  - Skills: skills/
+  - Guides: guides/
+  - Bosses: bosses/
+  - Passive tree: passive-tree/
+  - Cheatsheets: cheatsheets/
+  - 1.0 release: 1.0/
+  - Glossary: glossary.md
+  - Lore: lore.md
+  - Leagues & patches: leagues/
+  - Meta: meta/
