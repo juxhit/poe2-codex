@@ -48,13 +48,3 @@
 .md-tabs__link--active {
   font-weight: 700;
 }
-
-/* Faster perceived nav: keep sidebar sticky */
-@media screen and (min-width: 76.25em) {
-  .md-sidebar {
-    position: sticky;
-    top: 3.2rem;
-    max-height: calc(100vh - 3.2rem);
-    overflow: auto;
-  }
-}
