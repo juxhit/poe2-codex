@@ -162,6 +162,7 @@ nav:
       - items/misc.md
   - Skills:
       - skills/index.md
+      - skills/calculator.md
       - skills/skill-gems.md
       - skills/support-gems.md
       - skills/meta-gems.md
