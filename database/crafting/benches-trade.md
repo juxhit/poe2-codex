@@ -2,6 +2,9 @@
 
 > Sources: [poewiki vendor recipe system](https://www.poewiki.net/wiki/Vendor_recipe_system) (PoE1 ref), [Reddit 3-to-1 list](https://www.reddit.com/r/PathOfExile2/comments/1hjtjfg/), [Game8 reforging bench](https://game8.co/games/Path-of-Exile-2/archives/490017), [Mobalytics currency exchange](https://mobalytics.gg/poe-2/guides/currency-exchange), [GGG async trade FAQ](https://www.pathofexile.com/forum/view-thread/3828185)
 
+!!! tip "Waystone upgrading & free-sell trading"
+    Reforge **3 same-tier waystones → 1 higher tier** for Atlas sustain; on trade, hideout **Merchant Tabs** charge the gold fee to the *buyer* — listing is free for the seller.
+
 ## Salvage Bench
 
 - Gear → **Artificer's Shards** / quality currency; socketed gear → Artificer's Shards; Uniques have special salvage outcomes.

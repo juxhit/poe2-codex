@@ -2,7 +2,7 @@
 
 > Тир-лист стратегий: [Maxroll endgame farming tier list](https://maxroll.gg/poe2/tierlists/endgame-farming-tier-list) (0.5.5). Механики: [mechanics/league-mechanics.md](../mechanics/league-mechanics.md) · Прогрессия: [endgame-progression.md](endgame-progression.md)
 
-## Тиры стратегий (0.5.5, Maxroll)
+## 📊 Тиры стратегий (0.5.5, Maxroll)
 
 | Тир | Стратегия | Почему |
 |---|---|---|
@@ -28,6 +28,11 @@
 
 ### XP до 100
 - Карты Delirium 200%+ (самая высокая плотность монстров × множители XP); enlightening-алтари (+100% XP); избегайте штрафа смерти 10%, играя безопасные моды — смерть забирает 10% опыта текущего уровня с ~65 ур. ([mechanics/death-trade-party.md](../mechanics/death-trade-party.md)).
+
+!!! tip "Советы по прибыли"
+    - Ritual на эндгейме: берите **только Uniques или Omens** и откладывайте дорогие tribute-предметы за 15% — пул отложенного позже окупается.
+    - Усиливайте забеги Delirium-зеркалами на 200% при фарме валюты; комбинируйте с Abyss для лучшей плотности.
+    - Стакинг планшетов одного типа усиливает эффект — стакните два планшета Breach, затем добавьте планшет Abyss для плотности между механиками.
 
 ## Комбинации планшетов (Precursor Tablets, 3 гнезда на Map Device)
 

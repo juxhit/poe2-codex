@@ -2,6 +2,9 @@
 
 > Источники: [Mobalytics fracturing orbs](https://mobalytics.gg/poe-2/guides/fracturing-orbs), [poe2db — Desecrated Modifiers](https://poe2db.tw/us/Desecrated_Modifiers), [0.5.0 notes](https://maxroll.gg/poe2/news/0-5-0-patch-notes-return-of-the-ancients), [PoE Vault 1.0 league](https://www.poe-vault.com/poe2/news/conquerors-of-wraeclast-explained-path-of-exile-2s-1-0-league-has-you-raise-an-army)
 
+!!! warning "Фрактура фиксирует *случайный* мод — навсегда"
+    Fracturing Orb фиксирует («фрактурирует») один **случайный** мод из 4+ на Rare, и фрактурированные моды нельзя изменить. Сначала хаос-спамом добейтесь нужного набора модов, *затем* фрактурируйте (0.5.0: требуется специальная нода специализации Атласа).
+
 ## Fracturing Orb
 
 - Применим к Редкому с **4+ явными модификаторами**; навсегда фрактурирует («закрепляет») один **случайный** мод.

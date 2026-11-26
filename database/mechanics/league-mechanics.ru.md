@@ -4,6 +4,18 @@
 
 Механики, встроенные в Атлас (0.5.x): **Abyss, Breach, Ritual, Expedition, Delirium, Fate of the Vaal, Runes of Aldur**, плюс **Trials** и азмери-контент.
 
+```mermaid
+flowchart TD
+    BR["Breach"] --> TE["Breach Domains — Tul & Esh"] --> XK["Ключ Xesht"]
+    RI["Ritual"] --> KM["King in the Mists"] --> RN["Rite of the Nameless (5 карт подряд)"]
+    AB["Abyss"] --> DE["Abyssal Depths — 3 босса Lightless"] --> KU["Kulemak's Invitation → Vessel of Kulemak"]
+    SE["Trial of the Sekhemas"] --> ZA["Zarokh, the Temporal"]
+    CH["Trial of Chaos"] --> TM["The Trialmaster"]
+    CI["Цитадели (Stone/Copper/Iron) → Crisis Fragments"] --> AA["Burning Monolith — Arbiter of Ash"]
+    DL["Delirium — Simulacrum (7 волн)"] --> OM["Omniphobia"]
+    TO["Origin Tower / Fortress"] --> AD["Arbiter of Divinity"]
+```
+
 ## Breach
 
 - Взаимодействуйте с рукой/когтем; убивайте монстров быстро, чтобы продлить расширяющуюся зону с таймером (полоса прогресса с 0.5; 100% = **стабилизированный Breach**, спавнящий **Vruun, Marshal of Xesht**).

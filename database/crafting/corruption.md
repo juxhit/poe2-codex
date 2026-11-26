@@ -4,6 +4,9 @@
 
 Corruption is **permanent**: a corrupted item/gem can't take further currency (can still socket Augments; corrupted gems can still level).
 
+!!! warning "Corruption is irreversible"
+    A corrupted item/gem can never take currency again (Augment sockets and gem levelling still work). Anything you put into a Vaal Orb is gone for good.
+
 ## Equipment (Magic/Rare) outcomes
 
 - Nothing happens

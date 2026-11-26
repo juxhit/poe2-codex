@@ -19,12 +19,15 @@
 | Fragment Stash Tab | 60 `(price unconfirmed)` | Fragments (Breach splinters, Audience keys), Inscribed Ultimatums, Baryas **and Tablets**; auto-granted to PoE1 Fragment-tab owners |
 | Guild Stash Tabs | higher `(price not documented)` | Shared guild storage |
 
-## Buying priority (community consensus, 0.5-era)
+## 💡 Buying priority (community consensus, 0.5-era)
 
 1. **Currency Tab** — the single biggest QoL/economy win.
 2. **Waystone/Map Tab** — once you're mapping (huge sustain organization).
 3. **2–4 Premium tabs** (public) — for trade listings.
 4. Gem / Essence tabs → Quad → rest (Delirium/Fragment/Unique are niche).
+
+!!! tip "Buy priority"
+    Start with the **Currency Tab** — the single biggest QoL/economy win. Add the **Waystone/Map Tab** as soon as you start mapping, then 2–4 public Premium tabs if you trade.
 
 ## Stash Affinities
 

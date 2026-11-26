@@ -21,4 +21,6 @@
 
 - GGG endorses no third-party tool; general PoE Terms of Use apply: **no client modification, no automation**.
 - In practice, **read-only overlays** (clipboard price checkers), **offline planners** (PoB2), and **loot filters** (official feature) are universally used and historically safe.
-- Anything that **automates actions, injects into, or interacts with the game process is bannable** — past ban waves show enforcement can catch tools users assumed safe. PoE2's built-in marketplace/price checker is GGG's official answer to overlay demand. Use overlays at your own risk.
+
+!!! danger "Ban risk"
+    Anything that **automates actions, injects into, or interacts with the game process is bannable** — past ban waves show enforcement can catch tools users assumed safe. PoE2's built-in marketplace/price checker is GGG's official answer to overlay demand. Use overlays at your own risk.

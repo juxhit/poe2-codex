@@ -29,7 +29,10 @@ Heaviest settings, in order of FPS cost:
 
 Common fixes (community-verified):
 
-- Clear **ShaderCache** in `%APPDATA%\Path of Exile 2` (game closed) when stutters start after patches.
+!!! tip "Stutter fix after patches"
+    Clear **ShaderCache** in `%APPDATA%\Path of Exile 2` (game closed) when stutters start after patches. Setting **NVIDIA Shader Cache Size to 100 GB / Unlimited** and adding the shader/cache folder to **Windows Defender exclusions** further reduces recompiles.
+
+- Switch renderer to **Vulkan**; enable **DLSS/FSR** upscaling; update GPU drivers.
 - Set **NVIDIA Shader Cache Size to 100 GB / Unlimited**.
 - Add the shader/cache folder to **Windows Defender exclusions**.
 - Switch renderer to **Vulkan**; enable **DLSS/FSR** upscaling; update GPU drivers.

@@ -2,6 +2,13 @@
 
 > Источники: [Maxroll Act 1–4 + Interludes boss guides](https://maxroll.gg/poe2/getting-started/act-1-boss-guide). Типы урона по Maxroll; сопротивления редко задокументированы. Маршрут кампании: [guides/campaign-route.md](../guides/campaign-route.md)
 
+!!! danger "Механики с одноразовым убийством, которые нужно уважать"
+    - **The Brambleghast** (Акт 1, опционально) — **Volatile Slam** ваншотит «стеклянных» персонажей.
+    - **Lachlann** (Акт 1, опционально) — конус **Earthquake** ваншотит.
+    - **Doryani, Royal Thaumaturge** (Акт 3) — **рефракционные молниевые лучи** (конусы ~120°): никогда не стойте в них; кружите по арене и **делайте кувырок, когда Fist замедляется**.
+    - **Azmadi, the Faridun Prince** (I2) — у **Sunder почти нет телеграфа**; возьмите физ-митигацию.
+    - **Lythara, the Wayward Spear** (I3) — **Serpent's Bite нельзя заблокировать**: уклоняйтесь вбок.
+
 ## Акт 1
 
 | Босс | Зона | Урон | Тактика |

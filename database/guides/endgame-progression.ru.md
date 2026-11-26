@@ -2,6 +2,18 @@
 
 > Подробности цикла: [mechanics/atlas-waystones.md](../mechanics/atlas-waystones.md) · Список пиннаклов: [mechanics/pinnacle-bosses.md](../mechanics/pinnacle-bosses.md)
 
+## Дорожная карта
+
+```mermaid
+flowchart TD
+    A["Кампания пройдена<br>(Акты 1–4 + Интерлюдии)"] -->|"Doryani: Cataclysm's Wake"| B["Путевые камни T1–T5<br>Первая Башня → Fortress"]
+    B --> C["T6–T10<br>Планшеты + специализация Атласа<br>2–3 лиговые механики"]
+    C --> D["T11–T15<br>Охота за Цитаделями<br>Точки восхождений 5–8"]
+    D --> E["T15+ Пиннаклы<br>Xesht · King in the Mists<br>Kulemak · Trialmaster"]
+    E --> F["T16 + Burning Monolith<br>Arbiter of Ash"]
+    F --> G["Origin Tower<br>Arbiter of Divinity"]
+```
+
 ## Фаза 1 — Вход в эндгейм
 
 1. Завершите Акты 1–4 + Интерлюдии; «Cataclysm's Wake» Дориани (Doryani) запускает эндгейм.
@@ -36,7 +48,8 @@
 
 ## Экономика смерти
 
-- ~65 уровень и выше: смерть забирает 10% опыта текущего уровня (деклассирование невозможно) — см. [mechanics/death-trade-party.md](../mechanics/death-trade-party.md).
+!!! danger "Штраф опыта"
+    С ~65 уровня каждая смерть в зонах карт-девайса забирает **10% опыта до текущего уровня** (деклассирование невозможно). Избегайте опасных модов (Volatile Fiends, Deadly Monsters) при прокачке до 100 — см. [mechanics/death-trade-party.md](../mechanics/death-trade-party.md).
 
 ## Изменения 1.0 (11 декабря 2026)
 

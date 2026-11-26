@@ -19,6 +19,11 @@
 
 ## Setup (PC, step by step)
 
+!!! warning "Setup gotchas"
+    - Place the `.filter` file **NOT** in the `onlinefilters` subfolder — the game won't see it there.
+    - Console players cannot use local `.filter` files — in-game subscription/ladder only `(unconfirmed)`.
+    - Re-download the filter every league/patch — outdated filters miss new currencies.
+
 1. **Get a filter** — filterblade.xyz → pick PoE2 + strictness → Download; or GitHub releases zip.
 2. **Place the file** — copy `.filter` into:
    - Windows: `%userprofile%\Documents\My Games\Path of Exile 2`

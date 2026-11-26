@@ -2,6 +2,9 @@
 
 > Источники: [poe2db — Trial of the Sekhemas](https://poe2db.tw/us/Trial_of_the_Sekhemas), [poe2db — Relics](https://poe2db.tw/us/Relics), [poe2db — Inscribed Ultimatum](https://poe2db.tw/us/Inscribed_Ultimatum), [Maxroll Sekhemas](https://maxroll.gg/poe2/resources/trial-of-the-sekhemas), [Maxroll Trial of Chaos](https://maxroll.gg/poe2/resources/trial-of-chaos). Обзор: [league-mechanics.md](league-mechanics.md) · Гайд по открытию: [guides/ascendancy-unlock.md](../guides/ascendancy-unlock.md)
 
+!!! tip "Основы выживания по Honour"
+    Стакайте **Honour Resistance до 75%+** (суффикс реликвий, до 90%), тратьте **Sacred Water** у алтарей для восстановления Honour и помните: **Armour снижает потерю Honour**, а Evasion позволяет вовсе избегать ударов.
+
 ## Trial of the Sekhemas
 
 ### Вход и тиры Barya
@@ -39,6 +42,9 @@
 - **Afflictions** (выбираются через выбор комнаты/святилища), примеры: Corrosive Concoction (защита обнуляется), Unquenched Thirst (блокирует Sacred Water), Branded Balbalakh (блокирует восстановление Honour), Deadly Snare (ловушки ×3 урона), Myriad Aspersions, Purple Smoke, Fiendish Wings, Blunt Sword, Dark Pit, Deceptive Mirror.
 - **Pledges** (18, комнаты Kochai) — компромиссы: Pledge to the Guileful (один сундук без ключа в каждой комнате, вы получаете физический урон), Pledge to the Deserted (−50% цены торговцев, нет дропа Sacred Water).
 - Полные списки имён 48/58/18 `(нет данных)` — количество из poe2db, примеры из Maxroll.
+
+!!! warning "Ставки в Ultimatum"
+    **Проигрыш любого раунда Trial of Chaos лишает всего накопленного лута** за забег — ва-банк после каждого раунда.
 
 ## Trial of Chaos
 

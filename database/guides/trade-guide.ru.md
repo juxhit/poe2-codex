@@ -2,6 +2,14 @@
 
 > Системы: [mechanics/death-trade-party.md](../mechanics/death-trade-party.md) · [crafting/benches-trade.md](../crafting/benches-trade.md)
 
+```mermaid
+flowchart TD
+    A{"Чем торгуете?"} -->|"Стекующаяся валюта<br>(сферы, эссенции, знамения)"| B["Faustus — Currency Exchange"]
+    A -->|"Экипировка / предметы"| C{"Формат цены?"}
+    C -->|"Фиксированная цена, оптом"| D["Merchant Tabs (Ange)"]
+    C -->|"Разовый предмет, поиск по модам"| E["Официальный trade-сайт<br>pathofexile.com/trade2"]
+```
+
 ## Торговля валютой — Faustus (Currency Exchange)
 
 1. Найдите Finn (Акт 1 Clearfell), Risu (Акт 2), Alva (Акт 3/убежище) или Ange (эпоха 0.5.5).

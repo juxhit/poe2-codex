@@ -2,6 +2,9 @@
 
 > Sources: [poe2db — Reviving Minions](https://poe2db.tw/us/Reviving_Minions), [poe2db — Bind Spectre](https://poe2db.tw/us/Bind_Spectre), [poe2db — Tame Beast](https://poe2db.tw/us/Tame_Beast), [poe2db — Minion Commands](https://poe2db.tw/us/Minion_Commands), [poe2spectrewiki](https://poe2spectrewiki.com), [Mobalytics companions](https://mobalytics.gg/poe-2/guides/companions-tame-beast). Spirit basics: [spirit.md](spirit.md) · Minion gems catalog: [skills/skill-gems.md](../skills/skill-gems.md)
 
+!!! tip "Gearing priority"
+    **+X to Level of all Minion Skills** → **Spirit** (more/cheaper minions) → **% Minion Damage**. Only mods explicitly tagged Minion/Companion/Ally apply — generic player damage does not transfer.
+
 ## Categories
 
 | Type | Behavior |

@@ -2,6 +2,17 @@
 
 > Source: [Maxroll Campaign Guide](https://maxroll.gg/poe2/getting-started/path-of-exile-2-campaign-guide). Quest rewards: [campaign-quests.md](campaign-quests.md). Tips: [leveling.md](leveling.md)
 
+```mermaid
+flowchart TD
+    A["Act 1 — Ogham<br>(Clearfell)"] --> B["Act 2 — Vastiri<br>(Sekhemas unlock)"]
+    B --> C["Act 3 — Utzaal<br>(Chaos trial)"]
+    C --> D["Act 4 — Kingsmarch<br>(non-linear islands)"]
+    D --> E["Interlude 1 — Curse of Holten"]
+    E --> F["Interlude 2 — The Stolen Barya"]
+    F --> G["Interlude 3 — Doryani's Contingency"]
+    G --> H["Siege of Oriath<br>→ Endgame / Atlas"]
+```
+
 ## Act 1 — Ogham (town: Clearfell)
 
 Vendors: Renly (weapons/armor), Una (caster + disenchant), Finn (gold/gambling), **Farrow → Runeforging** ("The Runeseeker" quest).

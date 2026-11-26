@@ -2,6 +2,9 @@
 
 > Sources: [poe2db — Essence](https://poe2db.tw/us/Essence), [Fextralife Essences](https://pathofexile2.wiki.fextralife.com/Essences), [Timesaver essence guide](https://timesaver.gg/blog/poe2-essence-guide)
 
+!!! tip "Essences = targeted Regals"
+    Lesser/Normal/Greater essences upgrade a **Magic** item to Rare with a **guaranteed modifier** — the most deterministic way to start a rare. Perfect/Corrupt essences instead swap one modifier on an already-**Rare** item.
+
 ## Tiers & rules
 
 - Four tiers: **Lesser, Normal, Greater, Perfect**.

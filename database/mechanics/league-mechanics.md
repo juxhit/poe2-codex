@@ -4,6 +4,18 @@
 
 Core-in-Atlas mechanics (0.5.x): **Abyss, Breach, Ritual, Expedition, Delirium, Fate of the Vaal, Runes of Aldur**, plus **Trials** and Azmeri content.
 
+```mermaid
+flowchart TD
+    BR["Breach"] --> TE["Breach Domains — Tul & Esh"] --> XK["Xesht key"]
+    RI["Ritual"] --> KM["King in the Mists"] --> RN["Rite of the Nameless (5 chained maps)"]
+    AB["Abyss"] --> DE["Abyssal Depths — 3 Lightless bosses"] --> KU["Kulemak's Invitation → Vessel of Kulemak"]
+    SE["Trial of the Sekhemas"] --> ZA["Zarokh, the Temporal"]
+    CH["Trial of Chaos"] --> TM["The Trialmaster"]
+    CI["Citadels (Stone/Copper/Iron) → Crisis Fragments"] --> AA["Burning Monolith — Arbiter of Ash"]
+    DL["Delirium — Simulacrum (7 waves)"] --> OM["Omniphobia"]
+    TO["Origin Tower / Fortress"] --> AD["Arbiter of Divinity"]
+```
+
 ## Breach
 
 - Interact with a hand/claw; kill monsters fast to extend a timed expanding zone (progress bar since 0.5; 100% = **stabilised Breach** spawning **Vruun, Marshal of Xesht**).

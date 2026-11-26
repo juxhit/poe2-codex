@@ -2,6 +2,9 @@
 
 > Sources: [Mobalytics fracturing orbs](https://mobalytics.gg/poe-2/guides/fracturing-orbs), [poe2db — Desecrated Modifiers](https://poe2db.tw/us/Desecrated_Modifiers), [0.5.0 notes](https://maxroll.gg/poe2/news/0-5-0-patch-notes-return-of-the-ancients), [PoE Vault 1.0 league](https://www.poe-vault.com/poe2/news/conquerors-of-wraeclast-explained-path-of-exile-2s-1-0-league-has-you-raise-an-army)
 
+!!! warning "Fracturing locks a *random* mod — permanently"
+    The Fracturing Orb locks one random mod of the 4+ on the Rare, and fractured mods can never be changed. Chaos-spam into the desired layout *first*, then fracture (0.5.0: requires an Atlas specialisation node).
+
 ## Fracturing Orb
 
 - Usable on a Rare with **4+ explicit modifiers**; permanently fractures ("locks") one **random** mod.

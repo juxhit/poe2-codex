@@ -6,6 +6,9 @@ Consumable "activate next craft" modifiers, bought with Tribute at **Ritual** en
 
 **Naming: Sinistral = affects Prefixes · Dextral = affects Suffixes.**
 
+!!! tip "Deterministic crafting combo"
+    Stack omens to control both sides: **Greater Exaltation** (+2 mods) with **Dextral/Sinistral Exaltation** picks the side, **Whittling** makes Chaos Orbs remove the *lowest-level* mod, and **Catalysing Exaltation** spends Catalyst Quality to bias tag-matching exalts.
+
 ## Core omens
 
 | Omen | Effect |

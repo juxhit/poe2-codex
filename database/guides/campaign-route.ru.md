@@ -2,6 +2,17 @@
 
 > Источник: [Maxroll Campaign Guide](https://maxroll.gg/poe2/getting-started/path-of-exile-2-campaign-guide). Награды за квесты: [campaign-quests.md](campaign-quests.md). Советы: [leveling.md](leveling.md)
 
+```mermaid
+flowchart TD
+    A["Акт 1 — Ogham<br>(Clearfell)"] --> B["Акт 2 — Vastiri<br>(открытие Sekhemas)"]
+    B --> C["Акт 3 — Utzaal<br>(испытание Chaos)"]
+    C --> D["Акт 4 — Kingsmarch<br>(нелинейные острова)"]
+    D --> E["Интерлюдия 1 — Curse of Holten"]
+    E --> F["Интерлюдия 2 — The Stolen Barya"]
+    F --> G["Интерлюдия 3 — Doryani's Contingency"]
+    G --> H["Осада Oriath<br>→ Эндгейм / Атлас"]
+```
+
 ## Акт 1 — Ogham (город: Clearfell)
 
 Торговцы: Renly (оружие/броня), Una (кастер + расщепление), Finn (золото/азартная игра), **Farrow → Runeforging** (квест «The Runeseeker»).

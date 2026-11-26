@@ -2,6 +2,9 @@
 
 > Источники: [poe2db — Essence](https://poe2db.tw/us/Essence), [Fextralife Essences](https://pathofexile2.wiki.fextralife.com/Essences), [Timesaver essence guide](https://timesaver.gg/blog/poe2-essence-guide)
 
+!!! tip "Эссенции = прицельные Regal"
+    Эссенции Lesser/Normal/Greater улучшают **Magic**-предмет до Rare с **гарантированным модификатором** — самый детерминированный способ получить редкий предмет. Эссенции Perfect/Corrupt вместо этого заменяют один модификатор на уже **Rare**-предмете.
+
 ## Тиры и правила
 
 - Четыре тира: **Lesser, Normal, Greater, Perfect**.

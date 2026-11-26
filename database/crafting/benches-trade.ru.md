@@ -2,6 +2,9 @@
 
 > Источники: [poewiki vendor recipe system](https://www.poewiki.net/wiki/Vendor_recipe_system) (справка PoE1), [Reddit 3-to-1 list](https://www.reddit.com/r/PathOfExile2/comments/1hjtjfg/), [Game8 reforging bench](https://game8.co/games/Path-of-Exile-2/archives/490017), [Mobalytics currency exchange](https://mobalytics.gg/poe-2/guides/currency-exchange), [GGG async trade FAQ](https://www.pathofexile.com/forum/view-thread/3828185)
 
+!!! tip "Апгрейд путевых камней и бесплатный трейд"
+    Переплавляйте **3 путевых камня одного тира → 1 камень более высокого тира** для сустейна Атласа; в трейде **Merchant Tabs** в убежище взимают золотую комиссию с *покупателя* — для продавца размещение бесплатно.
+
 ## Верстак утилизации
 
 - Экипировка → **Artificer's Shards** / валюта качества; экипировка с сокетами → Artificer's Shards; Уникальные предметы имеют особые исходы утилизации.

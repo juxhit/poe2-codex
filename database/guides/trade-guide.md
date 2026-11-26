@@ -2,6 +2,14 @@
 
 > Systems: [mechanics/death-trade-party.md](../mechanics/death-trade-party.md) · [crafting/benches-trade.md](../crafting/benches-trade.md)
 
+```mermaid
+flowchart TD
+    A{"What are you trading?"} -->|"Stackable currency<br>(orbs, essences, omens)"| B["Faustus — Currency Exchange"]
+    A -->|"Gear / items"| C{"Price point?"}
+    C -->|"Priced, bulk-sold"| D["Merchant Tabs (Ange)"]
+    C -->|"One-off, searched by mods"| E["Official trade site<br>pathofexile.com/trade2"]
+```
+
 ## Currency trading — Faustus (Currency Exchange)
 
 1. Find Finn (Act 1 Clearfell), Risu (Act 2), Alva (Act 3/hideout), or Ange (0.5.5-era).

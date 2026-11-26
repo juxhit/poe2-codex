@@ -2,6 +2,14 @@
 
 > Источники: [Maxroll trials](https://maxroll.gg/poe2/getting-started/trials-of-ascendancy), [mechanics/league-mechanics.md](../mechanics/league-mechanics.md)
 
+```mermaid
+flowchart TD
+    A["Испытание 1 пройдено<br>(Акт 2 Sekhemas или Акт 3 Chaos)"] -->|"Очки 1–2"| B["Испытание 2 пройдено<br>(60+ ур. Barya / 65+ ур. ultimatum)"]
+    B -->|"Очки 3–4"| C["Испытания более высоких тиров<br>(60+ ур. Djinn / 65+ ур. ultimatum)"]
+    C -->|"Очки 5–6"| D["Pinnacle-испытания<br>(4-этажная Barya / все три Fates)"]
+    D -->|"Очки 7–8"| E["8 очков — полное восхождение"]
+```
+
 ## Ключевое правило (текущие патчи)
 
 **Выбор восхождения НЕ привязан к конкретному испытанию** — пройдите любое из испытаний, чтобы свободно выбрать любое восхождение своего класса. (Информация эпохи запуска о «привязке класс↔испытание» устарела. Исключение: **Abyssal Lich** — открывается через Well of Souls, а не через испытание — см. [ascendancies/lich.md](../ascendancies/lich.md).)

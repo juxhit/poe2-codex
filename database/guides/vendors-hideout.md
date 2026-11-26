@@ -6,8 +6,11 @@
 
 - Unlocked via **"Sorrow Among Stones"** (Act 1) — revives The Hooded One in Clearfell.
 - Cost: gold per passive point, scaling with **character level and tree position**; **Ascendancy points refund at 5× cost**.
-- Community-measured: ~600 gold/point @ lvl 27; ~8,450 @ ~lvl 90; full respec ~187k @ lvl 94; big endgame resets 230k–800k `(unconfirmed, no official formula)`.
-- Tip: refund edge nodes first — cost reflects tree position.
+
+!!! note "Respec costs scale hard"
+    Community-measured: ~600 gold/point @ lvl 27; ~8,450 @ ~lvl 90; full respec ~187k @ lvl 94; big endgame resets 230k–800k `(unconfirmed, no official formula)`. Refund edge nodes first — cost reflects tree position.
+
+
 
 ## Gambling vendors (gold)
 

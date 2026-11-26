@@ -6,6 +6,9 @@
 - League: recruit troops/commanders (Varek), build strongholds (Karui Island / Ezomyte River Keep / Maraketh Desert Rampart, 20+ buildings).
 - **Treasury** (boss-key loot room) is the **only source** of the league crafting materials.
 
+!!! note "Materials come from one place"
+    The **Treasury** (boss-key loot room inside strongholds) is the **only source** of Crimson Iron / Infused Blood — plan boss-key farming accordingly.
+
 ## New materials
 
 | Material | Effect |

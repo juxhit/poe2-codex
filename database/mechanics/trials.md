@@ -2,6 +2,9 @@
 
 > Sources: [poe2db — Trial of the Sekhemas](https://poe2db.tw/us/Trial_of_the_Sekhemas), [poe2db — Relics](https://poe2db.tw/us/Relics), [poe2db — Inscribed Ultimatum](https://poe2db.tw/us/Inscribed_Ultimatum), [Maxroll Sekhemas](https://maxroll.gg/poe2/resources/trial-of-the-sekhemas), [Maxroll Trial of Chaos](https://maxroll.gg/poe2/resources/trial-of-chaos). Overview: [league-mechanics.md](league-mechanics.md) · Unlock guide: [guides/ascendancy-unlock.md](../guides/ascendancy-unlock.md)
 
+!!! tip "Honour survival basics"
+    Stack **Honour Resistance to 75%+** (relic suffix, up to 90%), spend **Sacred Water** at shrines to restore Honour, and remember **Armour reduces Honour loss** while Evasion avoids hits entirely.
+
 ## Trial of the Sekhemas
 
 ### Entry & Barya tiers
@@ -39,6 +42,9 @@
 - **Afflictions** (picked via room choice/shrines), examples: Corrosive Concoction (defences zeroed), Unquenched Thirst (blocks Sacred Water), Branded Balbalakh (blocks Honour restore), Deadly Snare (traps ×3 damage), Myriad Aspersions, Purple Smoke, Fiendish Wings, Blunt Sword, Dark Pit, Deceptive Mirror.
 - **Pledges** (18, Kochai rooms) — trade-offs: Pledge to the Guileful (one keyless chest per room, take phys damage), Pledge to the Deserted (−50% merchant prices, no Sacred Water drops).
 - Full 48/58/18 name lists `(open gap)` — counts from poe2db, examples from Maxroll.
+
+!!! warning "Ultimatum stakes"
+    **Losing any Trial of Chaos round forfeits all pending loot** from the run — bank-or-bust after every round.
 
 ## Trial of Chaos
 

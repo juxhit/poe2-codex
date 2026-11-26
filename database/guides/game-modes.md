@@ -9,14 +9,16 @@
 - Best solo farming: Ritual (uniques/omens), Expedition remnants (permanent boons), waystone sustain via unidentified-drop trick — [mechanics/league-mechanics.md](../mechanics/league-mechanics.md), [guides/endgame-progression.md](endgame-progression.md).
 - Chase uniques come from targeted sources (Sekhemas relic drops, pinnacle keys) rather than trade — see [bosses/pinnacle-bosses.md](../bosses/pinnacle-bosses.md).
 
-## Hardcore (HC)
+## ⚠️ Hardcore (HC)
 
 - Permanent death → character + inventory **migrate to Standard**; HC stash stays in HC for your next character; PvP deaths also delete — see [death-trade-party.md](../mechanics/death-trade-party.md).
-- Dangerous one-shot mechanics to respect `(community consensus)`:
-  - Massive telegraphed slams at endgame tiers (Brambleghast's Volatile Slam analogs; Uber act-boss refracted beams — Doryani's Fist is lethal).
-  - **Reflected damage** and Overcharge-style shock reflections ([skills/support-gems.md](../skills/support-gems.md)).
-  - Sekhemas Honour builds: 0 Honour = run ends — stack Honour Resistance ([mechanics/trials.md](../mechanics/trials.md)).
-  - Ritual Kings / Rite of the Nameless chains with escalating affixes.
+
+!!! danger "One-shot mechanics to respect `(community consensus)`"
+    - Massive telegraphed slams at endgame tiers (Brambleghast's Volatile Slam analogs; Uber act-boss refracted beams — Doryani's Fist is lethal).
+    - **Reflected damage** and Overcharge-style shock reflections ([skills/support-gems.md](../skills/support-gems.md)).
+    - Sekhemas Honour builds: 0 Honour = run ends — stack Honour Resistance ([mechanics/trials.md](../mechanics/trials.md)).
+    - Ritual Kings / Rite of the Nameless chains with escalating affixes.
+
 - Recommended baseline before endgame HC: 75%+ res, ~3k+ EHP, ailment immunity charms ([mechanics/flasks-charms.md](../mechanics/flasks-charms.md)).
 
 ## Party / Co-op

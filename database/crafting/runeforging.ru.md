@@ -2,6 +2,9 @@
 
 > Источники: [Maxroll 0.5.0 notes](https://maxroll.gg/poe2/news/0-5-0-patch-notes-return-of-the-ancients), [Mobalytics Runes of Aldur](https://mobalytics.gg/poe-2/guides/runes-of-aldur), [Fextralife Runeforging Guide](https://pathofexile2.wiki.fextralife.com/Runeforging_Guide)
 
+!!! tip "Основы Runic Ward"
+    **Runic Ward** — отдельный пул защиты, который **срабатывает на 1 Life** и восстанавливается независимо. Броня ниже ilvl 55 получает его бесплатно; выше 55 runeforging обменивает базовые защиты на Ward.
+
 ## Remnants (лиговая механика)
 
 - В каждой области появляется **Ezomyte Remnant** — выберите комбинацию **Рун/Валюты**, затем сражайтесь с волнами врагов, усиленных рунами.

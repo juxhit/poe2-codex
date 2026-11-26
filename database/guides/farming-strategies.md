@@ -2,7 +2,7 @@
 
 > Strategy tier list: [Maxroll endgame farming tier list](https://maxroll.gg/poe2/tierlists/endgame-farming-tier-list) (0.5.5). Mechanics: [mechanics/league-mechanics.md](../mechanics/league-mechanics.md) · Progression: [endgame-progression.md](endgame-progression.md)
 
-## Strategy tiers (0.5.5, Maxroll)
+## 📊 Strategy tiers (0.5.5, Maxroll)
 
 | Tier | Strategy | Why |
 |---|---|---|
@@ -28,6 +28,11 @@
 
 ### XP to 100
 - 200%+ Delirium maps (highest monster density × XP multipliers); enlightening shrines (+100% XP); avoid 10% death penalty by playing safe mods — death costs 10% of current-level XP from ~lvl 65 ([mechanics/death-trade-party.md](../mechanics/death-trade-party.md)).
+
+!!! tip "Profit tips"
+    - Ritual endgame: take **Uniques or Omens only** and defer expensive tribute items at 15% — the defer pool pays out later.
+    - Juice with Delirium mirrors at 200% when farming currency; pair with Abyss for the best density.
+    - Same-type tablet stacking amplifies — stack two Breach tablets, then add an Abyss tablet for cross-mechanic density.
 
 ## Tablet combos (Precursor Tablets, 3 slots on Map Device)
 

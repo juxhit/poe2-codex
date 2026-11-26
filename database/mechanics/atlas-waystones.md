@@ -2,6 +2,9 @@
 
 > Sources: [Fextralife Endgame Guide](https://pathofexile2.wiki.fextralife.com/Endgame_Guide), [Mobalytics Atlas progression](https://mobalytics.gg/poe-2/guides/endgame-atlas-progression-guide), [official 0.5.0 notes](https://www.pathofexile.com/forum/view-thread/3932540)
 
+!!! tip "Sustain levers"
+    Atlas passive nodes · **Waystone Drop Chance** suffix on waystones · precursor tablets · unidentified waystones (+30% drop chance) · bosses drop **+1 tier**.
+
 ## Waystones (= maps)
 
 - **Tiers 1–16** (T1 = area level 65 → T16 = 80). Reforge **3 same-tier waystones → 1 higher-tier** waystone at the Reforging Bench.

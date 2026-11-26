@@ -2,6 +2,13 @@
 
 > Sources: [Maxroll Act 1–4 + Interludes boss guides](https://maxroll.gg/poe2/getting-started/act-1-boss-guide). Damage types per Maxroll; resistances rarely documented. Campaign route: [guides/campaign-route.md](../guides/campaign-route.md)
 
+!!! danger "One-shot mechanics to respect"
+    - **The Brambleghast** (Act 1, optional) — **Volatile Slam** one-shots squishies.
+    - **Lachlann** (Act 1, optional) — **Earthquake cone** one-shots.
+    - **Doryani, Royal Thaumaturge** (Act 3) — **refracted lightning beams** (~120° cones): never stand in them; circle the arena and **roll when the Fist slows**.
+    - **Azmadi, the Faridun Prince** (I2) — **Sunder has almost no telegraph**; bring phys mitigation.
+    - **Lythara, the Wayward Spear** (I3) — **Serpent's Bite is unblockable**: dodge sideways.
+
 ## Act 1
 
 | Boss | Zone | Damage | Tactics |

@@ -2,6 +2,9 @@
 
 > Источники: [Fextralife Endgame Guide](https://pathofexile2.wiki.fextralife.com/Endgame_Guide), [Mobalytics Atlas progression](https://mobalytics.gg/poe-2/guides/endgame-atlas-progression-guide), [official 0.5.0 notes](https://www.pathofexile.com/forum/view-thread/3932540)
 
+!!! tip "Рычаги сустейна"
+    Пассивные ноды Атласа · суффикс **Waystone Drop Chance** на путевых камнях · precursor-планшеты · неопознанные путевые камни (+30% шанса дропа) · боссы дропают камень **+1 тир**.
+
 ## Путевые камни (Waystone) (= карты)
 
 - **Тиры 1–16** (T1 = уровень зоны 65 → T16 = 80). Рефорж **3 путевых камней одного тира → 1 путевой камень более высокого тира** у Reforging Bench.

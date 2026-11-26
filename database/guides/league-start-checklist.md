@@ -2,6 +2,18 @@
 
 > For fresh league day 1 (pattern holds for 0.5.x; refresh after 1.0).
 
+```mermaid
+flowchart TD
+    A["Before launch<br>class + build guide + realm"] --> B["First session<br>main quest + act rewards + Finn"]
+    B --> C["End of campaign<br>ascendancy 1–4 + benches unlocked"]
+    C --> D["First mapping week<br>Tower → Fortress → Atlas spec"]
+```
+
+!!! warning "Common league-start mistakes"
+    - Skipping permanent act rewards (they are gone once you leave the act).
+    - Hoarding currency instead of using it while leveling.
+    - Not checking 1.0 patch notes — reworked classes may invalidate your planned build.
+
 ## Before launch
 
 - [ ] Pick class + rough ascendancy path ([class-selection.md](class-selection.md))

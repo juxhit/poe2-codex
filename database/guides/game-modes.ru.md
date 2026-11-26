@@ -9,14 +9,15 @@
 - Лучший сольный фарм: Ritual (уники/омены), remnants экспедиций (постоянные баффы), поддержание запаса путевых камней через трюк с неопознанным дропом — [mechanics/league-mechanics.md](../mechanics/league-mechanics.md), [guides/endgame-progression.md](endgame-progression.md).
 - Желанные уники берутся из целевых источников (дроп реликвий в Sekhemas, ключи пиннаклов), а не из торговли — см. [bosses/pinnacle-bosses.md](../bosses/pinnacle-bosses.md).
 
-## Hardcore (HC)
+## ⚠️ Hardcore (HC)
 
 - Смерть навсегда → персонаж + инвентарь **мигрируют в Standard**; HC-сундук остаётся в HC для следующего персонажа; смерти на PvP тоже удаляют — см. [death-trade-party.md](../mechanics/death-trade-party.md).
-- Опасные механики с одноразовым убийством, которые нужно уважать `(консенсус сообщества)`:
-  - Массивные телеграфированные удары на эндгейм-тирах (аналоги Volatile Slam у Brambleghast; рефракционные лучи Uber-боссов актов — Doryani's Fist смертелен).
-  - **Отражённый урон** и отражения шока в стиле Overcharge ([skills/support-gems.md](../skills/support-gems.md)).
-  - Строение Honour в Sekhemas: 0 Honour = забег закончен — стакайте Honour Resistance ([mechanics/trials.md](../mechanics/trials.md)).
-  - Цепочки Ritual Kings / Rite of the Nameless с нарастающими аффиксами.
+
+!!! danger "Механики с одноразовым убийством, которые нужно уважать `(консенсус сообщества)`"
+    - Массивные телеграфированные удары на эндгейм-тирах (аналоги Volatile Slam у Brambleghast; рефракционные лучи Uber-боссов актов — Doryani's Fist смертелен).
+    - **Отражённый урон** и отражения шока в стиле Overcharge ([skills/support-gems.md](../skills/support-gems.md)).
+    - Строение Honour в Sekhemas: 0 Honour = забег закончен — стакайте Honour Resistance ([mechanics/trials.md](../mechanics/trials.md)).
+    - Цепочки Ritual Kings / Rite of the Nameless с нарастающими аффиксами.
 - Рекомендуемый минимум перед эндгейм-HC: 75%+ резов, ~3k+ EHP, чары с иммунитетом к алиментам ([mechanics/flasks-charms.md](../mechanics/flasks-charms.md)).
 
 ## Партия / Кооп

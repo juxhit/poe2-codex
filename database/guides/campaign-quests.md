@@ -4,7 +4,8 @@
 
 **Campaign totals:** 24 passive skill points (26 incl. endgame), 25 weapon set points, **+100 Spirit**, **+30% elemental res total** (10% per act × 3), +20 Life, +5% max Life and Mana, +5% max Mana, +1 Charm Slot, multiple pick-one bonuses, 8 ascendancy points from trials.
 
-**Note:** several rewards converted from passive points to **Weapon Set Points** in 0.2.0+; Maxroll's stats page still lists some as passive points — verify in-game `(unconfirmed which is live in 0.5.x)`.
+!!! info "Note"
+    Several rewards converted from passive points to **Weapon Set Points** in 0.2.0+; Maxroll's stats page still lists some as passive points — verify in-game `(unconfirmed which is live in 0.5.x)`.
 
 ## Act 1 — Ogham
 

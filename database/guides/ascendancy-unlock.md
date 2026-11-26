@@ -2,6 +2,14 @@
 
 > Sources: [Maxroll trials](https://maxroll.gg/poe2/getting-started/trials-of-ascendancy), [mechanics/league-mechanics.md](../mechanics/league-mechanics.md)
 
+```mermaid
+flowchart TD
+    A["Trial 1 complete<br>(Act 2 Sekhemas or Act 3 Chaos)"] -->|"Points 1–2"| B["Trial 2 complete<br>(lvl 60+ Barya / lvl 65+ ultimatum)"]
+    B -->|"Points 3–4"| C["Higher-tier trials<br>(lvl 60+ Djinn / lvl 65+ ultimatum)"]
+    C -->|"Points 5–6"| D["Pinnacle trials<br>(4-floor Barya / all three Fates)"]
+    D -->|"Points 7–8"| E["8 points — full ascendancy"]
+```
+
 ## Key rule (current patches)
 
 **Ascendancy choice is NOT bound to a specific trial** — complete either trial to freely pick any ascendancy of your class. (Launch-era "class↔trial binding" info is outdated. Exception: **Abyssal Lich** — unlocked via the Well of Souls, not a trial — see [ascendancies/lich.md](../ascendancies/lich.md).)

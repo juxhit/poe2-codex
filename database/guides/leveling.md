@@ -11,6 +11,9 @@
 - Flasks recharge by fighting — don't hoard charges ([mechanics/flasks-charms.md](../mechanics/flasks-charms.md)).
 - Act rewards are **permanent** (+20% Fire/Cold/Lightning across the campaign, +Ailment Threshold in Act 3, etc.) — don't skip optional quests granting them.
 
+!!! tip "Don't hoard while leveling"
+    Transmute/Aug every upgrade and disenchant magic/rare junk — orbs are abundant, levels are not. Flasks recharge by fighting, so spend charges freely.
+
 ## Act walkthrough (highlights)
 
 | Act | Theme | Watch out for |

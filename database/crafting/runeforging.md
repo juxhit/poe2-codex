@@ -2,6 +2,9 @@
 
 > Sources: [Maxroll 0.5.0 notes](https://maxroll.gg/poe2/news/0-5-0-patch-notes-return-of-the-ancients), [Mobalytics Runes of Aldur](https://mobalytics.gg/poe-2/guides/runes-of-aldur), [Fextralife Runeforging Guide](https://pathofexile2.wiki.fextralife.com/Runeforging_Guide)
 
+!!! tip "Runic Ward basics"
+    **Runic Ward** is a separate defence pool that **triggers at 1 Life** and regenerates independently. Armour under ilvl 55 gets it free; above 55, runeforging trades base defences for Ward.
+
 ## Remnants (league mechanic)
 
 - Each area contains an **Ezomyte Remnant** — choose a combo of **Runes/Currency**, then fight Rune-empowered waves.
