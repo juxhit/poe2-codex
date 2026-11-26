@@ -2,6 +2,18 @@
 
 > Loop details: [mechanics/atlas-waystones.md](../mechanics/atlas-waystones.md) · Pinnacle list: [mechanics/pinnacle-bosses.md](../mechanics/pinnacle-bosses.md)
 
+## The roadmap
+
+```mermaid
+flowchart TD
+    A["Campaign done<br>(Acts 1–4 + Interludes)"] -->|Doryani: Cataclysm's Wake| B["T1–T5 waystones<br>First Tower → Fortress"]
+    B --> C["T6–T10<br>Tablets + Atlas spec<br>2–3 league mechanics"]
+    C --> D["T11–T15<br>Citadel hunting<br>Ascendancy points 5–8"]
+    D --> E["T15+ Pinnacles<br>Xesht · King in the Mists<br>Kulemak · Trialmaster"]
+    E --> F["T16 + Burning Monolith<br>Arbiter of Ash"]
+    F --> G["Origin Tower<br>Arbiter of Divinity"]
+```
+
 ## Phase 1 — Enter the endgame
 
 1. Finish Acts 1–4 + Interludes; Doryani's "Cataclysm's Wake" starts the endgame.
@@ -36,7 +48,8 @@
 
 ## Death economics
 
-- ~Level 65+: death costs 10% of current-level XP (cannot de-level) — see [mechanics/death-trade-party.md](../mechanics/death-trade-party.md).
+!!! danger "XP penalty"
+    From ~level 65 every death in map-device areas costs **10% of the XP toward your current level** (you cannot de-level). Avoid risky mods (Volatile Fiends, Deadly Monsters) while leveling to 100 — see [mechanics/death-trade-party.md](../mechanics/death-trade-party.md).
 
 ## 1.0 changes (Dec 11, 2026)
 
