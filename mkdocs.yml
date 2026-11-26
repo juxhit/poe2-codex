@@ -69,6 +69,24 @@ plugins:
         - locale: ru
           name: Русский
           build: true
+          nav_translations:
+            Home: Главная
+            Game overview: Обзор игры
+            Classes: Классы
+            Ascendancies: Восхождения
+            Mechanics: Механики
+            Crafting: Крафт
+            Items: Предметы
+            Skills: Умения
+            Guides: Гайды
+            Bosses: Боссы
+            Passive tree: Древо пассивок
+            Cheatsheets: Шпаргалки
+            1.0 release: Релиз 1.0
+            Glossary: Глоссарий
+            Lore: Лор
+            Leagues & patches: Лиги и патчи
+            Meta: Мета
 
 nav:
   - Home: README.md
