@@ -12,6 +12,7 @@
 | **0.4.0** (+a–e) | **The Last of the Druids** | **Dec 12, 2025** (анонс Dec 4; бесплатные выходные Dec 12–15) | Класс **Druid** (облики медведя/вервольфа/виверны; Talisman позволяет любому классу менять облик); вознесения **Shaman**, **Oracle**; лига **Fate of the Vaal** (подземелья, построенные игроками); ядро Abyss |
 | **0.5.0** | **Return of the Ancients** | **May 29, 2026** (идёт до Dec 11, 2026) | Лига **Runes of Aldur** (кратер Verisium; Runeforging с Remnants, 150 рун, Runic Alloys); 30+ новых монстров; новые пинаклы; **переработка дерева пассивок Atlas** ("The Endgame Renewed"); улучшения Expedition. Новые вознесения: **Spirit Walker** (Huntress), **Martial Artist** (Monk), **Disciple of Varashta** (Sorceress, фактически эпохи 0.4.0) |
 | **0.5.5** | **Forbidden Rites** (ивент) | **Sep 4, 2026** | Ивент с новой экономикой; ритуалы в каждой зоне; **переработка Trial of Chaos**; контент Wildwood; 8 challenge-испытаний с эксклюзивными наградами; анонсирован вместе с детальным разбором Duelist |
+| 0.5.5f | Хотфикс | ~19 ноя 2026 | Фиксы визуальных багов (лучи карт Corrupted Precursor); последний патч 0.5.x — 0.5.6 не будет, следующий сразу 1.0 |
 | **1.0** | **Полный релиз** | **Dec 11, 2026** | F2P (бесплатный); акты 5–6 (Oriath); **Duelist + Shadow**; лига **Conquerors of Wraeclast**; осады замков фракций; переработка пассивок/Atlas; 10 классов / 26 вознесений |
 
 ## Примечания

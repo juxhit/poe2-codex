@@ -12,6 +12,7 @@
 | **0.4.0** (+a–e) | **The Last of the Druids** | **Dec 12, 2025** (revealed Dec 4; free weekend Dec 12–15) | **Druid** class (bear/werewolf/wyvern shapeshifting; Talisman lets any class shapeshift); **Shaman**, **Oracle** ascendancies; **Fate of the Vaal** league (player-built dungeons); Abyss core |
 | **0.5.0** | **Return of the Ancients** | **May 29, 2026** (runs to Dec 11, 2026) | **Runes of Aldur** league (Verisium crater; Runeforging with Remnants, 150 Runes, Runic Alloys); 30+ new monsters; new pinnacles; **Atlas Passive Tree rework** ("The Endgame Renewed"); Expedition improvements. New ascendancies: **Spirit Walker** (Huntress), **Martial Artist** (Monk), **Disciple of Varashta** (Sorceress, actually 0.4.0-era) |
 | **0.5.5** | **Forbidden Rites** (event) | **Sep 4, 2026** | Fresh economy event; Rituals in every zone; **Trial of Chaos overhaul**; Wildwood content; 8 challenges with exclusive rewards; announced with the Duelist deep dive |
+| 0.5.5f | Hotfix | ~Nov 19, 2026 | Visual-bug fixes (Corrupted Precursor map light beams); last 0.5.x patch — no 0.5.6, next is 1.0 |
 | **1.0** | **Full Release** | **Dec 11, 2026** | F2P; Acts 5–6 (Oriath); **Duelist + Shadow**; **Conquerors of Wraeclast** league; faction castle sieges; passive/Atlas rework; 10 classes / 26 ascendancies |
 
 ## Notes

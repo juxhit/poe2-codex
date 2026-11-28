@@ -1,6 +1,17 @@
 # Path of Exile 2 — 1.0 Full Release (CONFIRMED facts)
 
-> Compiled 2026-11-17. All items verified against official GGG announcements or multiple independent press sources. Rumors/leaks live in [rumors.md](rumors.md).
+> Compiled 2026-11-17 · updated 2026-11-28. All items verified against official GGG announcements or multiple independent press sources. Rumors/leaks live in [rumors.md](rumors.md).
+
+## Pre-launch showcases (November 2026)
+
+After ExileCon (Nov 6–7), GGG ran a **pre-launch showcase series** ahead of Dec 11 (verified via Inven Global / RPG Site / official forum):
+
+- **Hands-on demo of the official launch build**, a **dev talk show**, and interactive community events — concluded late November.
+- **Nov 19 — campaign & journey-remaster showcase**: Acts 5–6 trailers and the Shadow class shown playing the complete campaign ([RPG Site](https://www.rpgsite.net)).
+- **"Developing the Duelist and Shadow"** — design talk by game designers **Kevin Readen & James Woodmansey** (ExileCon talk, on YouTube).
+- **MMORPG.com hands-on preview** of Shadow and Duelist from the launch build.
+- EA hotfix **0.5.5f** (~Nov 19): visual-bug fixes (Corrupted Precursor map light beams). No 0.5.6 — next patch is 1.0 itself.
+- **Patch notes for 1.0**: GGG confirmed they will be posted closer to release (expected ~Dec 3–5).
 
 - **Release date:** **December 11, 2026 (PST)**, ending Early Access. Full reveal at **ExileCon 2026, November 6, 2026** (teaser tagline: "Everything has a price… even fate.").
 - **Free-to-play:** PC (Steam, Epic, standalone), PS5, Xbox Series X|S. Monetization shifts to optional cosmetics + stash tabs (PoE 1 model). Steam Deck Verified at 1.0; Mac support for Apple M2-series+ and M1 Pro.
@@ -37,6 +48,9 @@ Details: [classes/future-classes.md](../classes/future-classes.md).
 ## Items, skills, passive tree
 
 - 40+ new Uniques, 70+ reworked Uniques, 200+ new base types, 60+ new active skills.
+- **110+ skills reworked or newly added** (press figure, covers both new and reworked).
+- **Two new weapon types** (Shadow daggers + traps, Duelist swords), new dagger/trap base types.
+- **Loot scaling rework** (press: "reworked core mechanics and loot scaling").
 - Support gem rebalance: Chain no longer penalizes first hit; Penetration merged into blanket elemental penetration; gems adapt to the supported skill.
 - Highlights: Ashcaller, Siegebreaker, Windripper. New skills: **Molten Forge** (Warrior), **Soul Extraction** (Witch).
 - **Passive tree overhaul:** Jewel Sockets move inside clusters (~18 highway sockets → ~60, some linking separate clusters); new Keystone **Withering Disintegration**.
@@ -50,6 +64,7 @@ Details: [classes/future-classes.md](../classes/future-classes.md).
 - **Blood Mage** — rework.
 - **Acolyte of Chayula** — Darkness becomes a Keystone; quarterstaff companion.
 - **Death Recap** added; up to **25% CPU performance gains**.
+- **Quest teleports** added; **improved memory usage, especially on consoles**.
 
 ## Totals at 1.0
 
